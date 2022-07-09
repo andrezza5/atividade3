@@ -1,0 +1,20 @@
+Proposta de variáveis:
+Nome:caracter
+CPF:inteiro
+RG:inteiro
+Altura:real
+Endereço:caractere
+
+Elaboração declaração das variáveis
+Var nome:inteiro
+Var CPF:inteiro
+Var RG:inteiro
+Var altura:real
+Var endereço:caracter
+
+Utilização comando de atribuição
+nome <- "José Almeida da Silva"
+CPF <- 12345678900
+RG <- 9517530
+Altura <- 1.78
+Endereço <- Rua A.380 - CENTRO - Recife/PE
